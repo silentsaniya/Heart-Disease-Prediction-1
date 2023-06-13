@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-1
+So we have used three models here. K-Nearest Neighbor(KNN), Logistic Regression and Naive Bayes and their accuracy score are 0.88(for k=7),0.86 and 0.85 respectively. These score are actually not much deviated from each other. However if we compare these three on the basis of accuracy score then KNN is giving the highest accuracy score then comes Logistic Regression and lastly Naive Bayes.
